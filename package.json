@@ -1,0 +1,33 @@
+{
+  "name": "licensekey",
+  "version": "1.0.0",
+  "description": "Solution to LeetCode License Key problem written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyGamiMarques/LicenseKey.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Data",
+    "Structures",
+    "LeetCode",
+    "Solution",
+    "License",
+    "Key"
+  ],
+  "author": "Bradley Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyGamiMarques/LicenseKey/issues"
+  },
+  "homepage": "https://github.com/bradleyGamiMarques/LicenseKey#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
